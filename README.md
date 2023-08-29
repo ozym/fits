@@ -1,2 +1,3 @@
 # fits
-Proof of concept for FITS data
+
+Extract data from the FITS api for testing or archiving
